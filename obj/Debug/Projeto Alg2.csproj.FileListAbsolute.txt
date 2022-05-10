@@ -1,0 +1,24 @@
+C:\Users\lohan\OneDrive\Documentos\Lohan\FTT\ALGORITMOS 2\Projeto Alg2\bin\Debug\Projeto Alg2.exe.config
+C:\Users\lohan\OneDrive\Documentos\Lohan\FTT\ALGORITMOS 2\Projeto Alg2\bin\Debug\Projeto Alg2.exe
+C:\Users\lohan\OneDrive\Documentos\Lohan\FTT\ALGORITMOS 2\Projeto Alg2\bin\Debug\Projeto Alg2.pdb
+C:\Users\lohan\OneDrive\Documentos\Lohan\FTT\ALGORITMOS 2\Projeto Alg2\obj\Debug\Projeto Alg2.csproj.AssemblyReference.cache
+C:\Users\lohan\OneDrive\Documentos\Lohan\FTT\ALGORITMOS 2\Projeto Alg2\obj\Debug\Projeto Alg2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lohan\OneDrive\Documentos\Lohan\FTT\ALGORITMOS 2\Projeto Alg2\obj\Debug\Projeto_Alg2.FrmApresentacao.resources
+C:\Users\lohan\OneDrive\Documentos\Lohan\FTT\ALGORITMOS 2\Projeto Alg2\obj\Debug\Projeto_Alg2.Properties.Resources.resources
+C:\Users\lohan\OneDrive\Documentos\Lohan\FTT\ALGORITMOS 2\Projeto Alg2\obj\Debug\Projeto Alg2.csproj.GenerateResource.cache
+C:\Users\lohan\OneDrive\Documentos\Lohan\FTT\ALGORITMOS 2\Projeto Alg2\obj\Debug\Projeto Alg2.csproj.CoreCompileInputs.cache
+C:\Users\lohan\OneDrive\Documentos\Lohan\FTT\ALGORITMOS 2\Projeto Alg2\obj\Debug\Projeto Alg2.exe
+C:\Users\lohan\OneDrive\Documentos\Lohan\FTT\ALGORITMOS 2\Projeto Alg2\obj\Debug\Projeto Alg2.pdb
+C:\Users\lohan\OneDrive\Documentos\Lohan\FTT\ALGORITMOS 2\Projeto Alg2\obj\Debug\Projeto_Alg2.FrmJogo.resources
+C:\Users\Rodrigo.Matioli\OneDrive\Documentos\CursosProjetos\Projeto Alg2\obj\Debug\Projeto Alg2.csproj.AssemblyReference.cache
+C:\Users\Rodrigo.Matioli\OneDrive\Documentos\CursosProjetos\Projeto Alg2\obj\Debug\Projeto Alg2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rodrigo.Matioli\OneDrive\Documentos\CursosProjetos\Projeto Alg2\obj\Debug\Projeto_Alg2.FrmApresentacao.resources
+C:\Users\Rodrigo.Matioli\OneDrive\Documentos\CursosProjetos\Projeto Alg2\obj\Debug\Projeto_Alg2.FrmJogo.resources
+C:\Users\Rodrigo.Matioli\OneDrive\Documentos\CursosProjetos\Projeto Alg2\obj\Debug\Projeto_Alg2.Properties.Resources.resources
+C:\Users\Rodrigo.Matioli\OneDrive\Documentos\CursosProjetos\Projeto Alg2\obj\Debug\Projeto Alg2.csproj.GenerateResource.cache
+C:\Users\Rodrigo.Matioli\OneDrive\Documentos\CursosProjetos\Projeto Alg2\obj\Debug\Projeto Alg2.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo.Matioli\OneDrive\Documentos\CursosProjetos\Projeto Alg2\obj\Debug\Projeto Alg2.exe
+C:\Users\Rodrigo.Matioli\OneDrive\Documentos\CursosProjetos\Projeto Alg2\obj\Debug\Projeto Alg2.pdb
+C:\Users\Rodrigo.Matioli\OneDrive\Documentos\CursosProjetos\Projeto Alg2\bin\Debug\Projeto Alg2.exe.config
+C:\Users\Rodrigo.Matioli\OneDrive\Documentos\CursosProjetos\Projeto Alg2\bin\Debug\Projeto Alg2.exe
+C:\Users\Rodrigo.Matioli\OneDrive\Documentos\CursosProjetos\Projeto Alg2\bin\Debug\Projeto Alg2.pdb
